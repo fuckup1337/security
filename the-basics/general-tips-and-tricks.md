@@ -26,3 +26,9 @@ print decoded
 You can forward X over SSH.  
 [http://www.vanemery.com/Linux/XoverSSH/X-over-SSH2.html](http://www.vanemery.com/Linux/XoverSSH/X-over-SSH2.html)
 
+## Password Lists
+
+[http://weakpass.com](http://www.defaultpassword.com/)
+
+
+
